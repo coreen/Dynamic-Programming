@@ -1,4 +1,4 @@
-
+# Coreen Yuen
 # global constant
 SCALE_FACTOR = 3
 

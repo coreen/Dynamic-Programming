@@ -1,3 +1,4 @@
+# Coreen Yuen
 # program that sings a song, puts repeated lyrics in methods for reduced repetition
 
 def repeat1():
